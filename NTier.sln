@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTier.UI", "YMS5122_NTier.UI\NTier.UI.csproj", "{37806C1A-9BF6-4FF4-A422-FCF7FA2188CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTier.Core", "NTier.Core\NTier.Core.csproj", "{5BC31FA2-9AC1-4FD1-9BA2-FDD1703FBE91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTier.Model", "NTier.Model\NTier.Model.csproj", "{86F3CDB0-A855-4E7E-B190-4C5B402293F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTier.Map", "NTier.Map\NTier.Map.csproj", "{592A8CDC-967E-4E81-9FAE-BA2208991087}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8B3207D8-88D6-40B0-96C5-7E947B9B4BA1}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTier.DAL", "NTier.DAL\NTier.DAL.csproj", "{C14E64AD-777E-4668-8275-098DE2709A2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTier.Utility", "NTier.Utility\NTier.Utility.csproj", "{667D442A-04D7-4F68-B523-D68BEF953094}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTier.Service", "NTier.Service\NTier.Service.csproj", "{416BF29A-97CE-4E63-B41A-3F70358A0789}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37806C1A-9BF6-4FF4-A422-FCF7FA2188CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37806C1A-9BF6-4FF4-A422-FCF7FA2188CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37806C1A-9BF6-4FF4-A422-FCF7FA2188CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37806C1A-9BF6-4FF4-A422-FCF7FA2188CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BC31FA2-9AC1-4FD1-9BA2-FDD1703FBE91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC31FA2-9AC1-4FD1-9BA2-FDD1703FBE91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC31FA2-9AC1-4FD1-9BA2-FDD1703FBE91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC31FA2-9AC1-4FD1-9BA2-FDD1703FBE91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86F3CDB0-A855-4E7E-B190-4C5B402293F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F3CDB0-A855-4E7E-B190-4C5B402293F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F3CDB0-A855-4E7E-B190-4C5B402293F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F3CDB0-A855-4E7E-B190-4C5B402293F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{592A8CDC-967E-4E81-9FAE-BA2208991087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592A8CDC-967E-4E81-9FAE-BA2208991087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592A8CDC-967E-4E81-9FAE-BA2208991087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592A8CDC-967E-4E81-9FAE-BA2208991087}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C14E64AD-777E-4668-8275-098DE2709A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C14E64AD-777E-4668-8275-098DE2709A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C14E64AD-777E-4668-8275-098DE2709A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C14E64AD-777E-4668-8275-098DE2709A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{667D442A-04D7-4F68-B523-D68BEF953094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{667D442A-04D7-4F68-B523-D68BEF953094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{667D442A-04D7-4F68-B523-D68BEF953094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{667D442A-04D7-4F68-B523-D68BEF953094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{416BF29A-97CE-4E63-B41A-3F70358A0789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{416BF29A-97CE-4E63-B41A-3F70358A0789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{416BF29A-97CE-4E63-B41A-3F70358A0789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{416BF29A-97CE-4E63-B41A-3F70358A0789}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

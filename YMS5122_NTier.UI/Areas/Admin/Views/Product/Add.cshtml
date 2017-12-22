@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewBag.Title = "Add";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+@model IEnumerable<NTier.Model.Option.Category>
+
+<form action="/Admin/Product/Add" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="Name">Ürün Adı</label>
+        <input type="text" name="Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="Price">Fiyat</label>
+        <input type="text" name="Price" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="UnitsInStock">Stok Miktarı</label>
+        <input type="text" name="UnitsInStock" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="Quantity">Birimi</label>
+        <input type="text" name="Quantity" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="CategoryID">Kategori Seçiniz</label>
+        <select name="CategoryID" class="form-control">
+            @foreach (var item in Model)
+            {
+                <option value="@item.Id">@item.Name</option>
+            }
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="Image">Fotoğraf Seçiniz</label>
+        <input type="file" name="Image" class="form-control" />
+    </div>
+    <input type="submit" value="Ekle" class="form-control btn btn-primary" />
+</form>

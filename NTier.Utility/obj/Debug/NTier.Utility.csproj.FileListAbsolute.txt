@@ -1,0 +1,5 @@
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Utility\bin\Debug\NTier.Utility.dll
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Utility\bin\Debug\NTier.Utility.pdb
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Utility\obj\Debug\NTier.Utility.dll
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Utility\obj\Debug\NTier.Utility.pdb
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Utility\obj\Debug\NTier.Utility.csprojResolveAssemblyReference.cache

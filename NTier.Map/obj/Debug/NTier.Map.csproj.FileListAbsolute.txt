@@ -1,0 +1,14 @@
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Map\bin\Debug\NTier.Map.dll.config
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Map\bin\Debug\NTier.Map.dll
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Map\bin\Debug\NTier.Map.pdb
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Map\bin\Debug\EntityFramework.dll
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Map\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Map\bin\Debug\NTier.Core.dll
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Map\bin\Debug\NTier.Model.dll
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Map\bin\Debug\NTier.Core.pdb
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Map\bin\Debug\NTier.Model.pdb
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Map\bin\Debug\EntityFramework.xml
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Map\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Map\obj\Debug\NTier.Map.csprojResolveAssemblyReference.cache
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Map\obj\Debug\NTier.Map.dll
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Map\obj\Debug\NTier.Map.pdb

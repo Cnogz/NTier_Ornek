@@ -1,0 +1,9 @@
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Model\bin\Debug\NTier.Model.dll
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Model\bin\Debug\NTier.Model.pdb
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Model\bin\Debug\NTier.Core.dll
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Model\bin\Debug\EntityFramework.dll
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Model\bin\Debug\NTier.Core.pdb
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Model\bin\Debug\EntityFramework.xml
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Model\obj\Debug\NTier.Model.csprojResolveAssemblyReference.cache
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Model\obj\Debug\NTier.Model.dll
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Model\obj\Debug\NTier.Model.pdb

@@ -1,0 +1,53 @@
+﻿
+@{
+    ViewBag.Title = "Update";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+@model YMS5122_NTier.UI.Areas.Admin.Models.AppUserDTO
+
+<form action="/Admin/AppUser/Update" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="Name">Ad</label>
+        <input type="text" name="Name" class="form-control" value="@Model.Name"/>
+    </div>
+    <div class="form-group">
+        <label for="LastName">Soyad</label>
+        <input type="text" name="LastName" class="form-control" value="@Model.LastName"/>
+    </div>
+    <div class="form-group">
+        <label for="PhoneNumber">Telefon No</label>
+        <input type="text" name="PhoneNumber" class="form-control" value="@Model.PhoneNumber"/>
+    </div>
+    <div class="form-group">
+        <label for="Address">Adres</label>
+        <input type="text" name="Address" class="form-control" value="@Model.Address"/>
+    </div>
+    <div class="form-group">
+        <label for="Email">Email</label>
+        <input type="text" name="Email" class="form-control" value="@Model.Email"/>
+    </div>
+    <div class="form-group">
+        <label for="UserName">Kullanıcı Adı</label>
+        <input type="text" name="UserName" class="form-control" value="@Model.UserName"/>
+    </div>
+    <div class="form-group">
+        <label for="Password">Şifre</label>
+        <input type="text" name="Password" class="form-control" value="@Model.Password"/>
+    </div>
+    <div class="form-group">
+        <label for="Role">Rol Seçiniz</label>
+        <select name="Role" class="form-control">
+            @foreach (var item in Enum.GetNames(typeof(NTier.Model.Option.Role)))
+            {
+                <option value="@item">@item</option>
+            }
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="Image">Fotoğraf Seçiniz</label>
+        <input type="file" name="Image" class="form-control" />
+    </div>
+    @Html.HiddenFor(x=>x.Id)
+    <input type="submit" value="Güncelle" class="form-control btn btn-primary" />
+</form>

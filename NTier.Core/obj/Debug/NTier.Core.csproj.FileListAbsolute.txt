@@ -1,0 +1,10 @@
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Core\bin\Debug\NTier.Core.dll.config
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Core\bin\Debug\NTier.Core.dll
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Core\bin\Debug\NTier.Core.pdb
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Core\bin\Debug\EntityFramework.dll
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Core\bin\Debug\EntityFramework.xml
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Core\obj\Debug\NTier.Core.csprojResolveAssemblyReference.cache
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Core\obj\Debug\NTier.Core.dll
+C:\Users\cn_og\Documents\Visual Studio 2015\Projects\YMS5122_NTier\NTier.Core\obj\Debug\NTier.Core.pdb
